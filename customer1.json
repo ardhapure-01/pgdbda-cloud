@@ -1,0 +1,20 @@
+[{
+    "id":564,
+    "title":"iphone",
+    "description":"smart phone",
+    "unitprice":"800000"
+},
+{
+    "id":564,
+    "title":"tab",
+    "description":"smart samsung",
+    "unitprice":"8000"
+},
+
+{
+    "id":564,
+    "title":"tv",
+    "description":"smart TV",
+    "unitprice":"95000"
+}
+]
